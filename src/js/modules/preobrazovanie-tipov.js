@@ -75,6 +75,16 @@ function preobrazovanie_tipov() {
     // console.log(typeof ooo);
     // console.log(ooo);
     // console.log(ooo.toPrecision(6)); // выведет с 0 в конце
+
+    // получить числа из строк
+    // let num = parseInt('12px');
+    // console.log(num); // выведет 12
+
+    // num = parseInt('12.5px');
+    // console.log(num); // все равно выведет 12
+
+    // num = parseFloat('12.5px');
+    // console.log(num); // выведет 12.5
 }
 
 export default preobrazovanie_tipov;

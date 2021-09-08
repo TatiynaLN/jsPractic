@@ -79,7 +79,7 @@ function StringMethods() {
     // result = greeting.substring(4, 9); // извлекаем из строки слово "Hey there!"; = "t" с 4 символa первая цифра слова по 9 = е
     // console.log(result);
 
-    // // slice()
+    // slice()
     // result = greeting.slice(4, 9); // аналогично substring
     // console.log(result);
     // result = greeting.slice(-6); // Выведет последние 6 символов

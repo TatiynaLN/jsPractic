@@ -104,8 +104,16 @@ function nachalo() {
     // console.log(typeof somefunction); // выведет тип function
 
     // // Date   = задаем значение при помощи конструктора new Date()
-    // const someDate = new Date();
+    //const someDate = new Date();
     // console.log(typeof someDate); // выведет тип object
+
+    // вывод в документ
+    const doc = `<h1>Привет</h1>
+    <div>
+        <p>Я тег в div</p>
+    </div>`;
+    document.write(doc);
+
 }
 
 export default nachalo;

@@ -17,6 +17,10 @@ import SwitchStatement from './modules/SwitchStatement.js';
 import TernaryOperator from './modules/TernaryOperator.js';
 import Arrays from './modules/Arrays.js';
 import arraysMetod from './modules/arraysMetod.js';
+import Object from './modules/Object';
+import operatorIn from './modules/in.js';
+import cicl from './modules/cicl.js';
+
 nachalo();
 preobrazovanie_tipov();
 numbersMath();
@@ -34,5 +38,8 @@ SwitchStatement();
 TernaryOperator();
 Arrays();
 arraysMetod();
+Object();
+operatorIn();
+cicl();
 
 accordion();

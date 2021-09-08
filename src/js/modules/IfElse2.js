@@ -12,6 +12,14 @@ function IfElse2() {
     // } else if (bolshe) {
     //     console.log('Лишний вес ' + raznica + ' кг')
     // }
+    //confirm
+    // let ok = confirm('Вам есть 18?');
+
+    // if (ok) {
+    //     alert('Доступно');
+    // } else {
+    //     alert('Доступ запрещен');
+    // }
 }
 
 export default IfElse2;
